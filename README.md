@@ -186,16 +186,16 @@
   <br/>
   <br/>
   
-  <!--## 📊 GitHub Stats-->
+  ## 📊 GitHub Stats
+  
   <!--Top Language Rank-->
-  <!--![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minkimNV&layout=compact&exclude_repo=EEGproject&langs_count=6)
--->
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minkimNV&layout=compact&hide=jupyter%20notebook&exclude_repo=EEGproject&langs_count=6)
 
-## 📚 Study & Practice
-<br/>
-
-> 혼자 학습하며 기록한 SQL 및 Python 문제 풀이 모음입니다.  
-> 실무에 필요한 데이터 처리 능력을 기르기 위해, 쿼리 최적화와 알고리즘 문제 해결 역량을 함께 키워나가고 있습니다.
+  ## 📚 Study & Practice
+  <br/>
+  
+  > 혼자 학습하며 기록한 SQL 및 Python 문제 풀이 모음입니다.  
+  > 실무에 필요한 데이터 처리 능력을 기르기 위해, 쿼리 최적화와 알고리즘 문제 해결 역량을 함께 키워나가고 있습니다.
 
 <br/>
 
