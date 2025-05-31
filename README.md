@@ -207,6 +207,25 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=SQL)](https://github.com/minkimNV/SQL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=CodingStudy)](https://github.com/minkimNV/CodingStudy)
 
+ <br/>
+   
+  ## 📚 Experience
+  <br/>
+  
+  > 실무에서 반복되는 분석 업무를 더 효율적으로 다루기 위해, 개인적으로 워크플로우를 구성했습니다.  
+  > Apache Airflow를 활용해 분석과 엔지니어링의 경계를 연결하고, 전체 흐름을 직접 설계하고 자동화해본 경험을 정리한 프로젝트입니다.  
+  > 데이터 전처리부터 로그 기반 분석, 전환율 계산까지 분석–엔지니어링 간 유기적인 흐름을 고민하며 구성했습니다.  
+  > 실무에서 익숙했던 Airflow 태스크 구조를 기반으로, 작업을 모듈화하고 유연하게 연결하는 방식을 정제했습니다.  
+
+  > Designed to improve efficiency for repetitive analytics tasks frequently encountered in real-world scenarios.  
+  > This is a self-directed project aimed at integrating analysis and engineering through Apache Airflow.  
+  > Covers the full journey from preprocessing to log-based analysis and conversion rate calculation, focusing on a cohesive data workflow.  
+  > Refines task orchestration using modular and maintainable patterns familiar from actual projects.  
+
+  <br/>
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=personal_airflow)](https://github.com/minkimNV/personal_airflow) 
+
   <br/>
   <br/>
   <br/>
