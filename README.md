@@ -189,7 +189,7 @@
    <br/>
    
   <!--Top Language Rank-->
-  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minkimNV&layout=compact&hide=html&exclude_repo=EEGproject&langs_count=6)
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minkimNV&layout=compact&hide=html&exclude_repo=EEGproject&langs_count=10)
   
   
   <br/>
