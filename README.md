@@ -182,21 +182,24 @@
   <!--Jira-->
   <img src="https://img.shields.io/badge/Jira-253858?style=rounded&logo=Jira&logoColor=white" height="25"/>
   
-  
   <br/>
   <br/>
   
   ## 📊 GitHub Stats
-  
+   <br/>
+   
   <!--Top Language Rank-->
-  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minkimNV&layout=compact&hide=jupyter%20notebook&exclude_repo=EEGproject&langs_count=6)
-
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minkimNV&layout=compact&hide=html&exclude_repo=EEGproject&langs_count=6)
+  
+  
+  <br/>
+  
   ## 📚 Study & Practice
   <br/>
   
   > 혼자 학습하며 기록한 SQL 및 Python 문제 풀이 모음입니다.  
   > 실무에 필요한 데이터 처리 능력을 기르기 위해, 쿼리 최적화와 알고리즘 문제 해결 역량을 함께 키워나가고 있습니다.
 
-<br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=SQL)](https://github.com/minkimNV/SQL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=CodingStudy)](https://github.com/minkimNV/CodingStudy)
+  <br/>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=SQL)](https://github.com/minkimNV/SQL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=CodingStudy)](https://github.com/minkimNV/CodingStudy)
