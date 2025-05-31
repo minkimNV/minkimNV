@@ -67,7 +67,6 @@
   ---
   
   ### ⚙️ Data Engineering Tools
-  <br/>
   
   <!--Apache Airflow-->
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=rounded&logo=Apache%20Airflow&logoColor=white" height="25"/>
@@ -198,8 +197,49 @@
   <br/>
   
   > 혼자 학습하며 기록한 SQL 및 Python 문제 풀이 모음입니다.  
-  > 실무에 필요한 데이터 처리 능력을 기르기 위해, 쿼리 최적화와 알고리즘 문제 해결 역량을 함께 키워나가고 있습니다.
+  > 실무에 필요한 데이터 처리 능력을 기르기 위해, 쿼리 최적화와 알고리즘 문제 해결 역량을 함께 키워나가고 있습니다. 
+
+  > A collection of SQL and Python problems I solved while self-studying.  
+  > My focus has been on building both **data querying efficiency** and **problem-solving skills** for real-world scenarios.
+
 
   <br/>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=SQL)](https://github.com/minkimNV/SQL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=CodingStudy)](https://github.com/minkimNV/CodingStudy)
+
+  <br/>
+  <br/>
+  <br/>
+
+---
+
+<div>
+
+## 👀 About Me
+
+Hello, I'm **Minhee Kim**, continuously exploring the intersection of data analysis and engineering.
+
+Though still early in my career, I've built experience working in production environments—automating pipelines for unstructured logs and behavior data, and deriving meaningful insights through user activity analysis.
+
+I've conducted **marketing funnel analysis** and **dashboard automation** using Google BigQuery and Looker Studio, and participated in projects involving Apache Airflow and Spark-based ETL pipelines, retention analysis, and churn prediction modeling.
+
+These experiences helped me gain a holistic understanding of **data flow and structuring from end to end**.
+
+<br/>
+
+* **🎓 *M.Sc. in Cognitive Science* @ Osnabrück University, Germany**
+
+* 🛠 Hands-on experience building **ETL pipelines** using Python, SQL, Apache Airflow, and Spark
+
+* 📊 Built **automated marketing dashboards and funnel analysis** using GA4 + BigQuery + Looker Studio
+
+* 🧠 Extracted insights through A/B testing and churn prediction modeling
+
+* 🤝 Cross-functional collaboration with marketing, product, and development teams
+
+<br/>
+
+Currently, I am especially interested in **automating data pipelines** and **retention analysis**, with a strong focus on designing and implementing **seamless, end-to-end data flows**.
+
+</div>
+
