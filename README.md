@@ -9,13 +9,29 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### 🙋🏻‍♀️ I am a Data Analytics Engineer from South Korea.<br/>
-  #### 🎓 Master of Cognitive Science, Osnabruek University (UOS)
-  #### 👩🏻‍🏫 데이터에서 인사이트를 발견하고, 그것을 실행 가능한 전략으로 전환하는 일에 열정을 가진 데이터 분석 & 엔지니어입니다.  
-  #### 데이터 파이프라인을 설계하고 자동화하며, 분석 가능한 고품질 데이터를 제공하여 의사결정을 돕는 역할을 수행해왔습니다.  
-  #### 관심 분야는 사용자 행동 분석, 마케팅 퍼널 분석, 데이터 인프라 최적화입니다.  
+  
+  안녕하세요, **데이터의 흐름을 읽고 구조화하는 데이터 분석 & 엔지니어링 전문가 김민희**입니다.  
+  
+  복잡한 로그와 비정형 데이터를 자동화된 파이프라인으로 정제하고,  
+  
+  이를 기반으로 실질적인 **사용자 행동 분석**과 **비즈니스 전략 도출**을 이끌어온 경험이 있습니다.  
+  <br/>
+  
+  - **🎓 _M.Sc. in Cognitive Science_ @ Osnabrück University, Germany**
+  
+  - 🛠 Python, SQL, Apache Airflow, Spark 기반 **ETL 파이프라인** 구축 경험
 
----
+  - 📊 Google Analytics 4 + BigQuery + Looker Studio를 활용한 **마케팅 퍼널 분석 & 대시보드 자동화**  
+
+  - 🧠 뉴스레터 콘텐츠 A/B 테스트부터 고객 이탈 예측 모델링까지 **데이터 기반 인사이트** 도출  
+
+  - 🤝 기획/마케팅/개발과의 협업을 통해 **제품 개선 및 전략 제안**을 수행해왔습니다.
+
+  <br/>
+  
+  현재는 **데이터 파이프라인 자동화**, **대규모 로그 분석**, **사용자 리텐션 분석**에 깊은 흥미를 가지고 있으며,  
+  
+  **분석부터 엔지니어링까지 이어지는 유기적인 데이터 흐름을 설계하고 구현**하는 데 강점을 가지고 있습니다.
 
   <br/>
   <br/>
@@ -38,10 +54,12 @@
   
   <!--Shell Script-->
   <img src="https://img.shields.io/badge/Shell%20Script-4CAF50?style=rounded&logo=GNU%20Bash&logoColor=white" height="25"/>
+  <br/>
   
   ---
   
   ### ⚙️ Data Engineering Tools
+  <br/>
   
   <!--Apache Airflow-->
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=rounded&logo=Apache%20Airflow&logoColor=white" height="25"/>
@@ -54,6 +72,7 @@
   
   <!--Kubernetes-->
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=rounded&logo=Kubernetes&logoColor=white" height="25"/>
+  <br/>
   
   ---
   
@@ -69,7 +88,9 @@
   <img src="https://img.shields.io/badge/SQLite-3F4E65?style=rounded&logo=SQLite&logoColor=white" height="25"/>
   
   <!--Google BigQuery-->
-  <img src="https://img.shields.io/badge/Google%20BigQuery-9E77ED?style=rounded&logo=Google%20BigQuery&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Google%20BigQuery-9E77ED?style=rounded&logo=Google%20BigQuery&logoColor=white" height="25"/>  
+  
+  <br/>
   
   <!--Amazon S3-->
   <img src="https://img.shields.io/badge/Amazon%20S3-2E8B57?style=rounded&logo=Amazon%20S3&logoColor=white" height="25"/>
@@ -79,6 +100,7 @@
   
   <!--Amazon Web Services-->
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=rounded&logo=Amazon%20AWS&logoColor=white" height="25"/>
+  <br/>
   
   ---
     
@@ -89,6 +111,7 @@
   
   <!--Google Tag Manager-->
   <img src="https://img.shields.io/badge/Google%20Tag%20Manager-5F6368?style=rounded&logo=Google%20Tag%20Manager&logoColor=white" height="25"/>
+  <br/>
   
   ---
   
@@ -99,6 +122,7 @@
   
   <!--Google Data Studio-->
   <img src="https://img.shields.io/badge/Google%20Data%20Studio-F06292?style=rounded&logo=Google%20Data%20Studio&logoColor=white" height="25"/>
+  <br/>
 
   ---
   
@@ -117,7 +141,9 @@
   <img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=rounded&logo=BeautifulSoup&logoColor=white" height="25"/>
 
   <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-FFB300?style=rounded&logo=Selenium&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Selenium-FFB300?style=rounded&logo=Selenium&logoColor=white" height="25"/>  
+  
+  <br/>
   
   <!--Scikit-learn-->
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=rounded&logo=Scikit-learn&logoColor=white" height="25"/>
@@ -127,6 +153,7 @@
 
   <!--MORE-->
   <img src="https://img.shields.io/badge/%2B%20more-8E44AD?style=rounded&logoColor=white" height="20"/>
+  <br/>
   
   ---
   
@@ -146,13 +173,22 @@
   
   <!--Jira-->
   <img src="https://img.shields.io/badge/Jira-253858?style=rounded&logo=Jira&logoColor=white" height="25"/>
-
----
-  ## 📊 GitHub Stats
+  
+  
+  <br/>
+  <br/>
+  
+  <!--## 📊 GitHub Stats-->
   <!--Top Language Rank-->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkimNV&layout=compact&hide=jupyter%20notebook&langs_count=6)
+  <!--![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minkimNV&layout=compact&exclude_repo=EEGproject&langs_count=6)
+-->
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkimNV&layout=compact&exclude_repo=EEGproject&langs_count=6)
+## 📚 Study & Practice
+<br/>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=SmallProjects)](https://github.com/minkimNV/SmallProjects)
-    
+> 혼자 학습하며 기록한 SQL 및 Python 문제 풀이 모음입니다.  
+> 실무에 필요한 데이터 처리 능력을 기르기 위해, 쿼리 최적화와 알고리즘 문제 해결 역량을 함께 키워나가고 있습니다.
+
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=SQL)](https://github.com/minkimNV/SQL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=CodingStudy)](https://github.com/minkimNV/CodingStudy)
