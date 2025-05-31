@@ -7,6 +7,8 @@
 
 <div>
   <!--Body-->
+
+  
   ## 👀 About Me
   #### :raising_hand: I am a Data Analytics Engineer from South Korea.<br/>
   #### :mortar_board: Master of Cognitive Science, Osnabruek University (UOS)
