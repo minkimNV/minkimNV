@@ -22,7 +22,6 @@
   
   **데이터가 흐르고 구조화되는 전 과정**에 참여하며 실무 경험을 쌓았습니다.
 
-
   <br/>
   
   - **🎓 _M.Sc. in Cognitive Science_ @ Osnabrück University, Germany**
@@ -184,12 +183,21 @@
   <br/>
   <br/>
   
+  ## 📄 Resume & Portfolio
+  
+  > You can also view my full resume and portfolio below:
+
+  [![Resume](https://img.shields.io/badge/📄RESUME-View-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1ZVqI1G8E5EnIQF_KD2M-PHclTjdTC9hM/view?usp=sharing)
+  [![Portfolio](https://img.shields.io/badge/📂_PORTFOLIO-View-F67280?style=for-the-badge&logo=bookstack&logoColor=white)](https://drive.google.com/file/d/1ck2GlDAENkhJpv2ui8D2usDAYk2G2tD4/view?usp=sharing)
+
+  <br/>
+  <br/>
+  
   ## 📊 GitHub Stats
-   <br/>
+  <br/>
    
   <!--Top Language Rank-->
   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minkimNV&layout=compact&hide=html&exclude_repo=EEGproject&langs_count=10)
-  
   
   <br/>
   
@@ -201,7 +209,6 @@
 
   > A collection of SQL and Python problems I solved while self-studying.  
   > My focus has been on building both **data querying efficiency** and **problem-solving skills** for real-world scenarios.
-
 
   <br/>
   
