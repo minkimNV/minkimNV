@@ -212,8 +212,9 @@
 
   <br/>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=SQL)](https://github.com/minkimNV/SQL) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=CodingStudy)](https://github.com/minkimNV/CodingStudy)
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=SQL)](https://github.com/minkimNV/SQL)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nanminiya121)](https://velog.io/@nanminiya121)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=CodingStudy)](https://github.com/minkimNV/CodingStudy)
  <br/>
    
   ## 📚 Experience
