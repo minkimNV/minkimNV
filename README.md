@@ -10,36 +10,30 @@
   
   ## 👀 About Me 
   
-  안녕하세요, 데이터 분석과 엔지니어링의 접점을 탐구하며 성장하고 있는 **김민희**입니다.
+  안녕하세요, 인공지능 알고리즘 설계와 확장성 있는 데이터 아키텍처의 결합을 탐구하는 **AI 엔지니어** 김민희입니다.
   
-  실제 서비스 환경에서 복잡한 로그와 비정형 데이터를 자동화된 파이프라인으로 정제하고,  
+  인지과학(Cognitive Science) 배경을 바탕으로 인간의 정보 처리 구조에 대한 깊은 이해를 기술로 구현해 왔으며, 복잡한 비정형 데이터(텍스트, 로그, 시퀀스 등)를 정형화하고 신뢰할 수 있는 지식 자산으로 전환하는 지능형 시스템 구축에 강점이 있습니다.
   
-  이를 기반으로 실질적인 **사용자 행동 분석**과 **비즈니스 전략 도출**을 이끌어온 경험이 있습니다.  
-  
-  Google BigQuery와 Looker Studio를 활용한 **마케팅 퍼널 분석** 및 **대시보드 자동화** 업무를 수행한 경험이 있습니다.
-  
-  또한, Apache Airflow와 Spark 기반의 ETL 파이프라인 구축, 사용자 행동 분석, 이탈 예측 모델링 등의 프로젝트를 통해  
-  
-  **데이터가 흐르고 구조화되는 전 과정**에 참여하며 실무 경험을 쌓았습니다.
+  실무 환경에서 대규모 비정형 데이터 마이닝을 통한 **지식 그래프(Knowledge Graph) 및 인용 네트워크 아키텍처 설계**를 리드하였으며, 다양한 도메인 환경에 유연하게 플러그인되어 확장될 수 있는 **모듈형 지능형 에이전트 시스템**을 구축해 왔습니다. 
+
+  단순히 인공지능 모델을 활용하는 것에 그치지 않고, 이기종 멀티 소스 인프라를 최적화하여 고성능 데이터 파이프라인과 완벽한 데이터 무결성을 확보하는 엔지니어링 전 과정에 참여하며 실무 경험을 쌓았습니다.
 
   <br/>
   
   - **🎓 _M.Sc. in Cognitive Science_ @ Osnabrück University, Germany**
   
-  - 🛠 Python, SQL, Apache Airflow, Spark 기반 **ETL 파이프라인** 구축 경험
+  - 🤖 **AI & 지능형 시스템 아키텍처** | 도메인 확장성을 고려한 지능형 데이터 탐색 및 분석 에이전트 시스템 단독 설계 및 상용화
 
-  - 📊 Google Analytics 4 + BigQuery + Looker Studio를 활용한 **마케팅 퍼널 분석 & 대시보드 자동화**  
+  - 📊 **비정형 데이터 마이닝 & 그래프 모델링** | 대규모 텍스트 기반 정보 추출, 인용 관계 체계화 및 Graph 구조 데이터 모델(Node & Edge) 설계 리드  
 
-  - 🧠 뉴스레터 콘텐츠 A/B 테스트부터 고객 이탈 예측 모델링까지 **데이터 기반 인사이트** 도출  
+  - 🛠 **고성능 데이터 엔지니어링** | 이기종 멀티 소스 인프라 기반의 엔터프라이즈급 대용량 파이프라인(ETL/ELT) 구축 및 인프라 표준화 최적화  
 
-  - 🤝 마케팅/개발/기획 등 다양한 팀과의 협업 경험
+  - 🗄 **인프라 고도화 및 데이터 무결성** | 코어 DB 스키마 재설계 및 고성능 분산 처리 워크플로우 자동화를 통해 복잡한 분석 데이터 정제 구조 다각화
 
   <br/>
   
-  현재는 **데이터 파이프라인 자동화**와 **사용자 리텐션 분석**에 깊은 관심을 갖고 있으며,  
-  
-  분석부터 엔지니어링까지 유기적으로 연결된 **데이터 흐름을 설계하고 구현하는 것**에 집중하고 있습니다.
-  
+  현재는 **지능형 AI 모델 인프라의 최적화**와 **대규모 데이터 파이프라인 자동화**에 깊은 관심을 갖고 있으며, 안정적이고 확장 가능한 AI 솔루션 베이스라인을 설계하고 유연한 아키텍처를 구현하는 것에 집중하고 있습니다.
+    
   <br/>
   <br/>
   
@@ -65,8 +59,16 @@
   
   ---
   
-  ### ⚙️ Data Engineering Tools
+  ### ⚙️ Enterprise Integration & ETL Tools
   
+  <img src="https://img.shields.io/badge/Talend-FF6B6B?style=rounded&logo=Talend&logoColor=white" height="25"/>
+  
+  <img src="https://img.shields.io/badge/SAP%20Data%20Services-008FD3?style=rounded&logo=SAP&logoColor=white" height="25"/>
+  
+  <img src="https://img.shields.io/badge/Informatica-FF4500?style=rounded&logo=Informatica&logoColor=white" height="25"/>
+  
+  <img src="https://img.shields.io/badge/DataStage-3B6790?style=rounded&logo=IBM&logoColor=white" height="25"/>
+  <br/>
   <!--Apache Airflow-->
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=rounded&logo=Apache%20Airflow&logoColor=white" height="25"/>
   
@@ -79,194 +81,80 @@
   <!--Kubernetes-->
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=rounded&logo=Kubernetes&logoColor=white" height="25"/>
   <br/>
-  
+
   ---
   
-  ### 🗄️ Database & Storage
+  ### 🗄️ Database & Analytics Engine (Extended)
   
-  <!--PostgreSQL-->
-  <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=rounded&logo=PostgreSQL&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=rounded&logo=Oracle&logoColor=white" height="25"/>
   
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-F29111?style=rounded&logo=MySQL&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Microsoft%20MSSQL-CC2927?style=rounded&logo=Microsoft%20SQL%20Server&logoColor=white" height="25"/>
   
-  <!--SQLite-->
-  <img src="https://img.shields.io/badge/SQLite-3F4E65?style=rounded&logo=SQLite&logoColor=white" height="25"/>
-  
-  <!--Google BigQuery-->
-  <img src="https://img.shields.io/badge/Google%20BigQuery-9E77ED?style=rounded&logo=Google%20BigQuery&logoColor=white" height="25"/>  
-  
-  <br/>
-  
-  <!--Amazon S3-->
-  <img src="https://img.shields.io/badge/Amazon%20S3-2E8B57?style=rounded&logo=Amazon%20S3&logoColor=white" height="25"/>
-  
-  <!--Google Cloud Storage-->
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Storage-009688?style=rounded&logo=Google%20Cloud&logoColor=white" height="25"/>
-  
-  <!--Amazon Web Services-->
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=rounded&logo=Amazon%20AWS&logoColor=white" height="25"/>
-  <br/>
+  <img src="https://img.shields.io/badge/Amazon%20Redshift-2E8B57?style=rounded&logo=Amazon%20AWS&logoColor=white" height="25"/>
+
+  <img src="https://img.shields.io/badge/Tibero-004A99?style=rounded&logoColor=white" height="25"/>
+  <br/> etc..
   
   ---
     
-  ### 📊 Analytics & Tracking
+  ### 🤖 Artificial Intelligence & Machine Learning
   
-  <!--Google Analytics 4-->
-  <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=rounded&logo=Google%20Analytics&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=rounded&logo=Google%20Cloud&logoColor=white" height="25"/>
   
-  <!--Google Tag Manager-->
-  <img src="https://img.shields.io/badge/Google%20Tag%20Manager-5F6368?style=rounded&logo=Google%20Tag%20Manager&logoColor=white" height="25"/>
-  <br/>
-  
-  ---
-  
-  ### 📈 Dashboard & Reporting Tools
-  
-  <!--Looker Studio-->
-  <img src="https://img.shields.io/badge/Looker%20Studio-8360C3?style=rounded&logo=Looker&logoColor=white" height="25"/>
-  
-  <!--Google Data Studio-->
-  <img src="https://img.shields.io/badge/Google%20Data%20Studio-F06292?style=rounded&logo=Google%20Data%20Studio&logoColor=white" height="25"/>
-  <br/>
-
-  ---
-  
-  ### 📚 Machine Learning / Libraries
-  
-  <!--Pandas-->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=rounded&logo=Pandas&logoColor=white" height="25"/>
-
-  <!--NumPy-->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=rounded&logo=NumPy&logoColor=white" height="25"/>
-  
-  <!--Seaborn-->
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=rounded&logo=Seaborn&logoColor=white" height="25"/>
-  
-  <!--BeautifulSoup-->
-  <img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=rounded&logo=BeautifulSoup&logoColor=white" height="25"/>
-
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-FFB300?style=rounded&logo=Selenium&logoColor=white" height="25"/>  
-  
-  <br/>
-  
-  <!--Scikit-learn-->
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=rounded&logo=Scikit-learn&logoColor=white" height="25"/>
   
-  <!--Matplotlib-->
-  <img src="https://img.shields.io/badge/Matplotlib-1E4E79?style=rounded&logo=Matplotlib&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/NetworkX-000000?style=rounded&logo=Python&logoColor=white" height="25"/>
 
-  <!--MORE-->
-  <img src="https://img.shields.io/badge/%2B%20more-8E44AD?style=rounded&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=rounded&logo=Pandas&logoColor=white" height="25"/>
+
+  <img src="https://img.shields.io/badge/NumPy-013243?style=rounded&logo=NumPy&logoColor=white" height="25"/>
+  
+  <img src="https://img.shields.io/badge/Text%20Mining%20%2F%20NLP-4B8BBE?style=rounded&logoColor=white" height="25"/>
   <br/>
   
   ---
   
   ### 🤝 Collaboration Tools
   
-  <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-611f69?style=rounded&logo=Slack&logoColor=white" height="25"/>
   
-  <!--Confluence-->
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=rounded&logo=Confluence&logoColor=white" height="25"/>
   
-  <!--GitHub-->
   <img src="https://img.shields.io/badge/GitHub-24292F?style=rounded&logo=GitHub&logoColor=white" height="25"/>
 
-  <!--Git-->
   <img src="https://img.shields.io/badge/Git-2D2D2D?style=rounded&logo=Git&logoColor=white" height="25"/>
   
-  <!--Jira-->
   <img src="https://img.shields.io/badge/Jira-253858?style=rounded&logo=Jira&logoColor=white" height="25"/>
-  
-  <br/>
-  <br/>
-  
-  ## 📄 Resume & Portfolio
-  
-  > You can also view my full resume and portfolio below:
-
-  [![Resume](https://img.shields.io/badge/📄RESUME-View-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1ZVqI1G8E5EnIQF_KD2M-PHclTjdTC9hM/view?usp=sharing)
-  [![Portfolio](https://img.shields.io/badge/📂_PORTFOLIO-View-F67280?style=for-the-badge&logo=bookstack&logoColor=white)](https://drive.google.com/file/d/1ck2GlDAENkhJpv2ui8D2usDAYk2G2tD4/view?usp=sharing)
-
-  <br/>
-  <br/>
-  
-  ## 📊 GitHub Stats
-  <br/>
-   
-  <!--Top Language Rank-->
-  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=minkimNV&layout=compact&hide=html&exclude_repo=EEGproject&langs_count=10)
-  
-  <br/>
-  
-  ## 📚 Study & Practice
-  <br/>
-  
-  > 혼자 학습하며 기록한 SQL 및 Python 문제 풀이 모음입니다.  
-  > 실무에 필요한 데이터 처리 능력을 기르기 위해, 쿼리 최적화와 알고리즘 문제 해결 역량을 함께 키워나가고 있습니다. 
-
-  > A collection of SQL and Python problems I solved while self-studying.  
-  > My focus has been on building both **data querying efficiency** and **problem-solving skills** for real-world scenarios.
-
-  <br/>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=SQL)](https://github.com/minkimNV/SQL)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nanminiya121)](https://velog.io/@nanminiya121)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=CodingStudy)](https://github.com/minkimNV/CodingStudy)
- <br/>
-   
-  ## 📚 Experience
-  <br/>
-  
-  > 실무에서 반복되는 분석 업무를 더 효율적으로 다루기 위해, 개인적으로 워크플로우를 구성했습니다.  
-  > Apache Airflow를 활용해 분석과 엔지니어링의 경계를 연결하고, 전체 흐름을 직접 설계하고 자동화해본 경험을 정리한 프로젝트입니다.  
-  > 데이터 전처리부터 로그 기반 분석, 전환율 계산까지 분석–엔지니어링 간 유기적인 흐름을 고민하며 구성했습니다.  
-  > 실무에서 익숙했던 Airflow 태스크 구조를 기반으로, 작업을 모듈화하고 유연하게 연결하는 방식을 정제했습니다.  
-
-  > Designed to improve efficiency for repetitive analytics tasks frequently encountered in real-world scenarios.  
-  > This is a self-directed project aimed at integrating analysis and engineering through Apache Airflow.  
-  > Covers the full journey from preprocessing to log-based analysis and conversion rate calculation, focusing on a cohesive data workflow.  
-  > Refines task orchestration using modular and maintainable patterns familiar from actual projects.  
-
-  <br/>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minkimNV&repo=personal_airflow)](https://github.com/minkimNV/personal_airflow) 
-
-  <br/>
   <br/>
   <br/>
 
 ---
 
 <div>
+    
+  ## 👀 About Me 
+  
+Hello, I'm Minhee Kim, an AI Engineer dedicated to bridging the gap between intelligent algorithmic modeling and highly scalable data architectures.
 
-## 👀 About Me
+Leveraging my academic foundation in Cognitive Science, I specialize in transforming complex, unstructured data into actionable knowledge assets. My core strengths lie in designing robust intelligence systems that excel in high-performance computing environments.
 
-Hello, I'm **Minhee Kim**, continuously exploring the intersection of data analysis and engineering.
+I have led the architectural design of Knowledge Graphs and Citation Networks through large-scale text mining, and spearheaded the end-to-end deployment of modular, enterprise-grade analysis systems designed for seamless multi-domain integration. Beyond model implementation, I have extensive experience orchestrating high-performance serving pipelines and ensuring data integrity across heterogeneous multi-source infrastructures.
 
-Though still early in my career, I've built experience working in production environments—automating pipelines for unstructured logs and behavior data, and deriving meaningful insights through user activity analysis.
+I am deeply focused on developing scalable machine learning workflows, optimizing AI backend systems, and engineering high-impact, production-ready AI solutions from end to end.
 
-I've conducted **marketing funnel analysis** and **dashboard automation** using Google BigQuery and Looker Studio, and participated in projects involving Apache Airflow and Spark-based ETL pipelines, retention analysis, and churn prediction modeling.
 
-These experiences helped me gain a holistic understanding of **data flow and structuring from end to end**.
+🎓 M.Sc. in Cognitive Science @ Osnabrück University, Germany
 
-<br/>
+🤖 AI & Intelligent System Architecture | Engineered and successfully deployed end-to-end intelligent analysis systems centered around highly adaptable framework baselines.
 
-* **🎓 *M.Sc. in Cognitive Science* @ Osnabrück University, Germany**
+📊 Unstructured Data Mining & Graph Modeling | Spearheaded text mining, relationship systematization, and Graph data modeling (Nodes & Edges) for large-scale textual datasets.
 
-* 🛠 Hands-on experience building **ETL pipelines** using Python, SQL, Apache Airflow, and Spark
+🛠 Scalable Data Pipelines | Orchestrated and optimized enterprise-level ETL/ELT pipelines integrating multi-source environments into unified high-performance architectures.
 
-* 📊 Built **automated marketing dashboards and funnel analysis** using GA4 + BigQuery + Looker Studio
+🗄 Data Integrity & Optimization | Redesigned core database schemas and automated workflows to structure multi-faceted sequential and analytical data profiles.
 
-* 🧠 Extracted insights through A/B testing and churn prediction modeling
 
-* 🤝 Cross-functional collaboration with marketing, product, and development teams
-
-<br/>
-
-Currently, I am especially interested in **automating data pipelines** and **retention analysis**, with a strong focus on designing and implementing **seamless, end-to-end data flows**.
+Currently, my professional focus is dedicated to maximizing AI model infrastructure efficiency and automating complex data pipelines, driven to build highly seamless, resilient, and enterprise-grade AI systems.
 
 </div>
 
